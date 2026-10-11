@@ -1,0 +1,6 @@
+{
+  "name": "MailMate — Lightweight AI Email Assistant",
+  "description": "Less reading. More doing. Summarize emails, extract actionable tasks, detect deadlines, and organize your inbox with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
